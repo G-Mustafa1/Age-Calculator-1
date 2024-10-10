@@ -1,0 +1,19 @@
+body{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   height: 100vh;
+   color: #fff;
+   background: rgb(67,0,148);
+background: linear-gradient(90deg, rgba(67,0,148,1) 0%, rgba(0,137,145,1) 100%);
+text-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.age{
+   font-size: 50px;
+}
+span{
+   color: thistle;
+}
